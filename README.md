@@ -1,4 +1,3 @@
-Hi, I'm Jackson Hughes. I am currently a psychology major at Southwestern Oklahoma State University.
 Most days you can find me watching Oneyplays clips or playing Vampire Suvivors. Also a big grunge guy, I love Alice in Chains.
 Currently learning JS-based web development but love to mess around with 3d animation and modeling.
 
