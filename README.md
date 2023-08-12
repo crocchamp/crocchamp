@@ -1,5 +1,7 @@
 Most days you can find me watching Oneyplays clips or playing Vampire Suvivors. Also a big grunge guy, I love Alice in Chains.
-Currently learning JS-based web development but love to mess around with 3d animation and modeling.
+Currently learning JS-based web development but I'm also interested in 3d animation and modeling.
+
+Learning: Linger by The Cranberries on guitar
 
 
 You can reach me at jackson.hughes@live.com, if you want do that.
